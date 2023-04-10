@@ -207,7 +207,7 @@ void deleteTransaction() {
 
   deleteNode(&treeRoot, targetId);
 
-
+  cleanQueue();
 }
 
 void listTransactions(printOrder order) {
