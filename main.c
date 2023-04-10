@@ -1,5 +1,3 @@
-// TODO: ID field
-// TODO: Delete trans
 #include "queue.h"
 #include "record.h"
 #include <stdio.h>
